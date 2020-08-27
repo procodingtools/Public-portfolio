@@ -25,4 +25,5 @@
 
 **Sorry i can't expose my other private work...**
 <br/>
-Thanks for your attention.
+Thanks for visiting my protfolio.
+<small>Amir Elleuch</small>
