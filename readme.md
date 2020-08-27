@@ -24,7 +24,9 @@
 <br/><br/><br/><br/>
 <strong>RestoMenu (personal project)</strong>
 <br/><br/>
-<video src="https://github.com/procodingtools/Public-portfolio/blob/master/screenshots/RestoMenu/RestoMenu.mp4?raw=true" width="350"/>
+<video controls width="350">
+    <source src="https://github.com/procodingtools/Public-portfolio/blob/master/screenshots/RestoMenu/RestoMenu.mp4?raw=true" type="video/mp4"/>
+<video/>
 
 <br/><br/><br/><br/><br/>
 
