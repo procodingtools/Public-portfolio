@@ -28,7 +28,7 @@
 
 <br/><br/><br/><br/><br/>
 
-**Sorry i can't expose my other private work...**
+<strong>Sorry i can't expose my other private work...</strong>
 <br/>
 Thanks for visiting my protfolio.
 <br/><br/>
