@@ -17,14 +17,14 @@
 <br/><br/><br/><br/>
 <strong>Musiks (personal project)</strong>
 <br/><br/>
-<img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003740.png" width="350"/>    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003800.png" width="350"/>    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003751.png" width="350"/>
-    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003812.png" width="350"/>
-    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003824.png" width="350"/>
+<img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003740.png" width="250"/>    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003800.png" width="250"/>    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003751.png" width="250"/>
+    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003812.png" width="250"/>
+    <img src="https://github.com/procodingtools/musiks/blob/master/screenshots/Screenshot_20200309-003824.png" width="250"/>
 
 <br/><br/><br/><br/>
 <strong>RestoMenu (personal project)</strong>
 <br/><br/>
-<video controls width="350">
+<video controls width="250">
     <source src="https://github.com/procodingtools/Public-portfolio/blob/master/screenshots/RestoMenu/RestoMenu.mp4?raw=true" type="video/mp4"/>
 <video/>
 
